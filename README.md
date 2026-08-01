@@ -2,12 +2,12 @@
 
 ## Alessandro DTR
 
-Front-end developer. I've been building for the web since 2023: sites and landing
-pages in HTML, CSS and JavaScript written by hand — no framework, no CMS, no bought
-theme underneath.
+I build websites, PWAs and digital products from the ground up using HTML, 
+CSS and JavaScript, with a focus on clean code, responsive design and real-world usability.
 
-Everything linked below is online and browsable. Open it on a phone if you want to
-check the responsive part.
+Everything showcased below is live and available to explore. 
+Open the projects on your phone or desktop to see how they adapt across different screen sizes.
+
 
 ---
 
