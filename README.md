@@ -65,8 +65,8 @@ Portfolio projects, each with a live demo. Full sources are on
 </table>
 
 **[FitSculpt Pro](https://github.com/aledtr77/template-fitsculpt-pro)** — a fitness and
-coaching landing page template, free to use: the source is public, clone it and go.
-Still being tidied up.
+coaching landing page template. The source is public and free to build sites with,
+client work included; reselling it as a template is not allowed. Still being tidied up.
 
 ---
 
