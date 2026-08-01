@@ -64,7 +64,17 @@ Portfolio projects, each with a live demo. Full sources are on
 </tr>
 </table>
 
-**FitSculpt Pro** — female fitness and coaching landing page. In progress, demo soon.
+**[FitSculpt Pro](https://github.com/aledtr77/template-fitsculpt-pro)** — a fitness and
+coaching landing page template, free to use: the source is public, clone it and go.
+Still being tidied up.
+
+---
+
+### Tools
+
+**[Palette Extractor](https://codedge.it/tools/palette-extractor/)** — pulls a colour
+palette out of an image. Runs entirely in the browser, so the file never leaves your
+computer. Source: [aledtr77/palette-extractor](https://github.com/aledtr77/palette-extractor)
 
 ---
 
