@@ -85,4 +85,4 @@ one, and checked against what already worked before.
 Available for commissioned work: sites and landing pages, custom components, changes
 to projects that already exist.
 
-**info@codedge.it** · [codedge.it/contact](https://codedge.it/contact/)
+**contatti.codedge@gmail.com** · [codedge.it/contact](https://codedge.it/contact/)
