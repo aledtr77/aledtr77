@@ -24,7 +24,7 @@ The tools run entirely in the browser — compress an image and the file never l
 your computer, because there's no request to send it anywhere. Components ship with
 ARIA attributes and keyboard focus handling written in, not bolted on afterwards.
 
-Source: [aledtr77/01-codedge](https://github.com/aledtr77/01-codedge)
+Source: [aledtr77/codedge](https://github.com/aledtr77/codedge)
 
 ---
 
