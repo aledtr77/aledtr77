@@ -33,15 +33,15 @@ Source: [aledtr77/codedge](https://github.com/aledtr77/codedge)
 Portfolio projects, each with a live demo. One of them is free with the source public
 — start there if you came here to read code.
 
-<a href="https://fitsculpt-pro.pages.dev/"><img src="assets/fitsculpt-pro.jpg" alt="FitSculpt Pro demo" width="100%"></a>
+<a href="https://fitsculpt-pro.pages.dev/"><img src="assets/fitsculpt-luxe.jpg" alt="FitSculpt Luxe demo" width="100%"></a>
 
-**FitSculpt Pro** — multi-page coaching site built around getting the visitor to book
-a call. BMI and calorie calculator, filterable program grid, light and dark themes.
-Free to build sites with, client work included; reselling it as a template is not
-allowed. Still being tidied up.
+**FitSculpt Luxe** — multi-page site for physique and body-sculpting coaches, built
+around getting the visitor to book a call. Metrics calculator, filterable protocol
+grid, light and dark themes. Free to build sites with, client work included;
+reselling it as a template is not allowed. Still being tidied up.
 
 [Live demo →](https://fitsculpt-pro.pages.dev/) · Source:
-[aledtr77/template-fitsculpt-pro](https://github.com/aledtr77/template-fitsculpt-pro)
+[aledtr77/template-fitsculpt-luxe](https://github.com/aledtr77/template-fitsculpt-luxe)
 
 The other four are paid — full sources on
 [Etsy](https://www.etsy.com/shop/CodedgeStudio), demos browsable here:
