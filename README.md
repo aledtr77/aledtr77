@@ -87,7 +87,9 @@ The other four are paid — full sources on
 
 **[Palette Extractor](https://codedge.it/tools/palette-extractor/)** — pulls a colour
 palette out of an image. Runs entirely in the browser, so the file never leaves your
-computer. Source: [aledtr77/palette-extractor](https://github.com/aledtr77/palette-extractor)
+computer. Standalone source, split into readable modules:
+[aledtr77/palette-extractor](https://github.com/aledtr77/palette-extractor) — codedge.it
+runs its own copy of the same tool, built into the site.
 
 ---
 
