@@ -30,15 +30,19 @@ Source: [aledtr77/codedge](https://github.com/aledtr77/codedge)
 
 ### Templates
 
-Portfolio projects, each with a live demo. One of them is free with the source public
-— start there if you came here to read code.
+Portfolio projects, each with a live demo. One has its source public, published as a
+code reference — this is what my markup and CSS actually look like. Start there if you
+came here to read code rather than look at screenshots.
 
 <a href="https://fitsculpt-pro.pages.dev/"><img src="assets/fitsculpt-pro.jpg" alt="FitSculpt Pro demo" width="100%"></a>
 
 **FitSculpt Pro** — multi-page site for physique and body-sculpting coaches, built
 around getting the visitor to book a call. Metrics calculator, filterable program
-grid, light and dark themes. Free to build sites with, client work included;
-reselling it as a template is not allowed. Still being tidied up.
+grid, light and dark themes, one navigation bar shared across all five pages.
+
+Free to use, modify and deploy — personal projects and client work included. You may
+not redistribute or sell it as a template, theme or starter kit, modified or not.
+Still being tidied up.
 
 [Live demo →](https://fitsculpt-pro.pages.dev/) · Source:
 [aledtr77/template-fitsculpt-pro](https://github.com/aledtr77/template-fitsculpt-pro)
