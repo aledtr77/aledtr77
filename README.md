@@ -44,9 +44,10 @@ came here to read code rather than look at screenshots.
 
 <a href="https://fitsculpt-pro.pages.dev/"><img src="assets/fitsculpt-pro.jpg" alt="FitSculpt Pro demo" width="100%"></a>
 
-**FitSculpt Pro** — multi-page site for physique and body-sculpting coaches, built
-around getting the visitor to book a call. Metrics calculator, filterable program
-grid, light and dark themes, one navigation bar shared across all five pages.
+**FitSculpt Pro** — landing page for physique and body-sculpting coaches, built around
+getting the visitor to book a call. Everything that converts sits on the one page,
+reached by anchor from a single navigation bar: metrics calculator, filterable program
+grid, membership tiers, booking dialog. Light and dark themes.
 
 Free to use, modify and deploy — personal projects and client work included. You may
 not redistribute or sell it as a template, theme or starter kit, modified or not.
