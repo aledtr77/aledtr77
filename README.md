@@ -51,7 +51,6 @@ grid, membership tiers, booking dialog. Light and dark themes.
 
 Free to use, modify and deploy — personal projects and client work included. You may
 not redistribute or sell it as a template, theme or starter kit, modified or not.
-Still being tidied up.
 
 [Live demo →](https://fitsculpt-pro.pages.dev/) · Source:
 [aledtr77/template-fitsculpt-pro](https://github.com/aledtr77/template-fitsculpt-pro)
