@@ -2,11 +2,19 @@
 
 ## Alessandro DTR
 
-I build websites, PWAs and digital products from the ground up using HTML, 
-CSS and JavaScript, with a focus on clean code, responsive design and real-world usability.
+Front-end, written by hand in HTML, CSS and JavaScript. Sites, PWAs and website
+templates, mostly for fitness, sports and wellness. No framework underneath any of it.
 
-Everything showcased below is live and available to explore. 
-Open the projects on your phone or desktop to see how they adapt across different screen sizes.
+I start from something that runs. I'd rather have a component that actually works than
+a flawless explanation of how it would work — the code here was written to be used, not
+to be illustrated.
+
+The other half is less fun and matters more: verifying. A change that "should work"
+isn't finished. It gets opened in the browser, looked at on a large screen and a small
+one, and checked against what already worked before.
+
+Everything below is live. Open the projects on your phone or your desktop and see how
+they hold up.
 
 
 ---
@@ -90,18 +98,6 @@ palette out of an image. Runs entirely in the browser, so the file never leaves 
 computer. Standalone source, split into readable modules:
 [aledtr77/palette-extractor](https://github.com/aledtr77/palette-extractor) — codedge.it
 runs its own copy of the same tool, built into the site.
-
----
-
-### How I work
-
-I start from something that runs. I'd rather have a component that actually works than
-a flawless explanation of how it would work — the code I publish was written to be
-used, not to be illustrated.
-
-The other half is less fun and matters more: verifying. A change that "should work"
-isn't finished. It gets opened in the browser, looked at on a large screen and a small
-one, and checked against what already worked before.
 
 ---
 
