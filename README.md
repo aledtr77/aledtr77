@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" alt="codedge.it" width="100%">
+![codedge.it](assets/banner.webp)
 
 ## Alessandro DTR
 
@@ -17,12 +17,11 @@ one, and checked against what already worked before.
 Everything below is live. Open the projects on your phone or your desktop and see how
 they hold up.
 
-
 ---
 
 ### codedge.it
 
-<a href="https://codedge.it"><img src="assets/codedge.jpg" alt="The codedge.it home page" width="100%"></a>
+[![The codedge.it home page](assets/codedge.webp)](https://codedge.it)
 
 [**codedge.it**](https://codedge.it) is my site and my main project: 418 glossary
 entries across HTML, CSS and JavaScript, 12 tutorials, 4 tools and 4 documented UI
@@ -43,12 +42,14 @@ Portfolio projects, each with a live demo. One has its source public, published 
 code reference — this is what my markup and CSS actually look like. Start there if you
 came here to read code rather than look at screenshots.
 
-<a href="https://fitsculpt-pro.pages.dev/"><img src="assets/fitsculpt-pro.jpg" alt="FitSculpt Pro demo" width="100%"></a>
+#### FitSculpt Pro — source public
 
-**FitSculpt Pro** — landing page for physique and body-sculpting coaches, built around
-getting the visitor to book a call. Everything that converts sits on the one page,
-reached by anchor from a single navigation bar: metrics calculator, filterable program
-grid, membership tiers, booking dialog. Light and dark themes.
+[![FitSculpt Pro demo](assets/fitsculpt-pro.webp)](https://fitsculpt-pro.pages.dev/)
+
+Landing page for physique and body-sculpting coaches, built around getting the visitor
+to book a call. Everything that converts sits on the one page, reached by anchor from a
+single navigation bar: metrics calculator, filterable program grid, membership tiers,
+booking dialog. Light and dark themes.
 
 Free to use, modify and deploy — personal projects and client work included. You may
 not redistribute or sell it as a template, theme or starter kit, modified or not.
@@ -56,39 +57,29 @@ not redistribute or sell it as a template, theme or starter kit, modified or not
 [Live demo →](https://fitsculpt-pro.pages.dev/) · Source:
 [aledtr77/template-fitsculpt-pro](https://github.com/aledtr77/template-fitsculpt-pro)
 
-The other four are paid — full sources on
-[Etsy](https://www.etsy.com/shop/CodedgeStudio), demos browsable here:
+#### The other four — paid
 
-<table>
-<tr>
-<td width="50%">
-  <a href="https://powermax-gym.pages.dev/"><img src="assets/powermax-gym.jpg" alt="PowerMax Gym demo" width="100%"></a>
-  <b>PowerMax Gym</b><br>
-  Multi-page site for gyms and sports centres. Dark interface, sharp calls to action.<br>
-  <a href="https://powermax-gym.pages.dev/">Live demo →</a>
-</td>
-<td width="50%">
-  <a href="https://mind-and-motion.pages.dev/"><img src="assets/mind-and-motion.jpg" alt="Mind &amp; Motion demo" width="100%"></a>
-  <b>Mind &amp; Motion</b><br>
-  Multi-page site for wellness, yoga and pilates. Light and dark themes.<br>
-  <a href="https://mind-and-motion.pages.dev/">Live demo →</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-  <a href="https://04-fitness-coach.pages.dev/"><img src="assets/alex-personal-trainer.jpg" alt="Alex Personal Trainer demo" width="100%"></a>
-  <b>Alex Personal Trainer</b><br>
-  Multi-page site built around collecting enquiries.<br>
-  <a href="https://04-fitness-coach.pages.dev/">Live demo →</a>
-</td>
-<td width="50%">
-  <a href="https://coach-lifefitness.pages.dev/"><img src="assets/giulia-vital-fit.jpg" alt="Giulia Vital Fit demo" width="100%"></a>
-  <b>Giulia Vital Fit</b><br>
-  Bilingual editorial landing page aimed at a single action.<br>
-  <a href="https://coach-lifefitness.pages.dev/">Live demo →</a>
-</td>
-</tr>
-</table>
+Full sources on [Etsy](https://www.etsy.com/shop/CodedgeStudio), demos browsable here.
+
+**PowerMax Gym** — multi-page site for gyms and sports centres. Dark interface, sharp
+calls to action. [Live demo →](https://powermax-gym.pages.dev/)
+
+[![PowerMax Gym demo](assets/powermax-gym.webp)](https://powermax-gym.pages.dev/)
+
+**Mind & Motion** — multi-page site for wellness, yoga and pilates. Light and dark
+themes. [Live demo →](https://mind-and-motion.pages.dev/)
+
+[![Mind and Motion demo](assets/mind-and-motion.webp)](https://mind-and-motion.pages.dev/)
+
+**Alex Personal Trainer** — multi-page site built around collecting enquiries.
+[Live demo →](https://04-fitness-coach.pages.dev/)
+
+[![Alex Personal Trainer demo](assets/alex-personal-trainer.webp)](https://04-fitness-coach.pages.dev/)
+
+**Giulia Vital Fit** — bilingual editorial landing page aimed at a single action.
+[Live demo →](https://coach-lifefitness.pages.dev/)
+
+[![Giulia Vital Fit demo](assets/giulia-vital-fit.webp)](https://coach-lifefitness.pages.dev/)
 
 ---
 
