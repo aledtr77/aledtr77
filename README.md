@@ -2,8 +2,9 @@
 
 ## Alessandro DTR
 
-Front-end, written by hand in HTML, CSS and JavaScript. Sites, PWAs and website
-templates, mostly for fitness, sports and wellness. No framework underneath any of it.
+Front-end in plain HTML, CSS and JavaScript — no framework, no CMS and no bought theme
+under any of it. Sites, PWAs and website templates, mostly for fitness, sports and
+wellness.
 
 I start from something that runs. I'd rather have a component that actually works than
 a flawless explanation of how it would work — the code here was written to be used, not
