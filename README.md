@@ -85,11 +85,19 @@ themes. [Live demo →](https://mind-and-motion.pages.dev/)
 
 ### Tools
 
-**[Palette Extractor](https://codedge.it/tools/palette-extractor/)** — pulls a colour
-palette out of an image. Runs entirely in the browser, so the file never leaves your
-computer. Standalone source, split into readable modules:
-[aledtr77/palette-extractor](https://github.com/aledtr77/palette-extractor) — codedge.it
-runs its own copy of the same tool, built into the site.
+**Palette Extractor** — pulls a colour palette out of an image and turns it into UI
+roles, WCAG contrast ratios, CSS custom properties and JSON. Runs entirely in the
+browser, so the file never leaves your computer.
+
+[![Palette Extractor demo](assets/palette-extractor.webp)](https://color-extraction.pages.dev/)
+
+Its own repo, one concern per file, 42 tests over the colour maths. Start with
+`color.js` and `extractor.js` — that is where the actual thinking is.
+
+[Live demo →](https://color-extraction.pages.dev/) · Source:
+[aledtr77/palette-extractor](https://github.com/aledtr77/palette-extractor)
+
+codedge.it ships it too, as one of its four tools built into the site.
 
 ---
 
