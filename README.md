@@ -89,12 +89,12 @@ themes. [Live demo →](https://mind-and-motion.pages.dev/)
 roles, WCAG contrast ratios, CSS custom properties and JSON. Runs entirely in the
 browser, so the file never leaves your computer.
 
-[![Palette Extractor demo](assets/palette-extractor.webp)](https://color-extraction.pages.dev/)
+[![Palette Extractor demo](assets/palette-extractor.webp)](https://palette-extractor-7hm.pages.dev/)
 
-Its own repo, one concern per file, 42 tests over the colour maths. Start with
+Its own repo, one concern per file, 47 tests over the colour maths. Start with
 `color.js` and `extractor.js` — that is where the actual thinking is.
 
-[Live demo →](https://color-extraction.pages.dev/) · Source:
+[Live demo →](https://palette-extractor-7hm.pages.dev/) · Source:
 [aledtr77/palette-extractor](https://github.com/aledtr77/palette-extractor)
 
 codedge.it ships it too, as one of its four tools built into the site.
