@@ -36,13 +36,10 @@ Source: [aledtr77/codedge](https://github.com/aledtr77/codedge)
 
 ---
 
-### Templates
+### FitSculpt Pro — template, source public
 
-Portfolio projects, each with a live demo. One has its source public, published as a
-code reference — this is what my markup and CSS actually look like. Start there if you
-came here to read code rather than look at screenshots.
-
-#### FitSculpt Pro — source public
+Published as a code reference: this is what my markup and CSS actually look like. Start
+here if you came to read code rather than look at screenshots.
 
 [![FitSculpt Pro demo](assets/fitsculpt-pro.webp)](https://fitsculpt-pro.pages.dev/)
 
@@ -57,37 +54,13 @@ not redistribute or sell it as a template, theme or starter kit, modified or not
 [Live demo →](https://fitsculpt-pro.pages.dev/) · Source:
 [aledtr77/template-fitsculpt-pro](https://github.com/aledtr77/template-fitsculpt-pro)
 
-#### The other four — paid
-
-Full sources on [Etsy](https://www.etsy.com/shop/CodedgeStudio), demos browsable here.
-
-**PowerMax Gym** — multi-page site for gyms and sports centres. Dark interface, sharp
-calls to action. [Live demo →](https://powermax-gym.pages.dev/)
-
-[![PowerMax Gym demo](assets/powermax-gym.webp)](https://powermax-gym.pages.dev/)
-
-**Mind & Motion** — multi-page site for wellness, yoga and pilates. Light and dark
-themes. [Live demo →](https://mind-and-motion.pages.dev/)
-
-[![Mind and Motion demo](assets/mind-and-motion.webp)](https://mind-and-motion.pages.dev/)
-
-**Alex Personal Trainer** — multi-page site built around collecting enquiries.
-[Live demo →](https://04-fitness-coach.pages.dev/)
-
-[![Alex Personal Trainer demo](assets/alex-personal-trainer.webp)](https://04-fitness-coach.pages.dev/)
-
-**Giulia Vital Fit** — bilingual editorial landing page aimed at a single action.
-[Live demo →](https://coach-lifefitness.pages.dev/)
-
-[![Giulia Vital Fit demo](assets/giulia-vital-fit.webp)](https://coach-lifefitness.pages.dev/)
-
 ---
 
-### Tools
+### Palette Extractor — tool, source public
 
-**Palette Extractor** — pulls a colour palette out of an image and turns it into UI
-roles, WCAG contrast ratios, CSS custom properties and JSON. Runs entirely in the
-browser, so the file never leaves your computer.
+Pulls a colour palette out of an image and turns it into UI roles, WCAG contrast
+ratios, CSS custom properties and JSON. Runs entirely in the browser, so the file never
+leaves your computer.
 
 [![Palette Extractor demo](assets/palette-extractor.webp)](https://palette-extractor-7hm.pages.dev/)
 
@@ -98,6 +71,28 @@ Its own repo, one concern per file, 47 tests over the colour maths. Start with
 [aledtr77/palette-extractor](https://github.com/aledtr77/palette-extractor)
 
 codedge.it ships it too, as one of its four tools built into the site.
+
+---
+
+### Paid templates
+
+The four below are sold, so their source isn't on GitHub — full sources on
+[Etsy](https://www.etsy.com/shop/CodedgeStudio). The demos are live and browsable:
+that's the part you can judge from here.
+
+<a href="https://powermax-gym.pages.dev/"><img src="assets/thumbs/powermax-gym.webp" alt="PowerMax Gym demo" width="380"></a>
+<a href="https://mind-and-motion.pages.dev/"><img src="assets/thumbs/mind-and-motion.webp" alt="Mind and Motion demo" width="380"></a>
+<a href="https://04-fitness-coach.pages.dev/"><img src="assets/thumbs/alex-personal-trainer.webp" alt="Alex Personal Trainer demo" width="380"></a>
+<a href="https://coach-lifefitness.pages.dev/"><img src="assets/thumbs/giulia-vital-fit.webp" alt="Giulia Vital Fit demo" width="380"></a>
+
+- **PowerMax Gym** — gyms and sports centres, multi-page, dark interface ·
+  [demo →](https://powermax-gym.pages.dev/)
+- **Mind & Motion** — wellness, yoga and pilates, multi-page, light and dark themes ·
+  [demo →](https://mind-and-motion.pages.dev/)
+- **Alex Personal Trainer** — multi-page, built around collecting enquiries ·
+  [demo →](https://04-fitness-coach.pages.dev/)
+- **Giulia Vital Fit** — bilingual editorial landing page aimed at a single action ·
+  [demo →](https://coach-lifefitness.pages.dev/)
 
 ---
 
