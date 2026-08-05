@@ -41,7 +41,7 @@ Source: [aledtr77/codedge](https://github.com/aledtr77/codedge)
 Published as a code reference: this is what my markup and CSS actually look like. Start
 here if you came to read code rather than look at screenshots.
 
-[![FitSculpt Pro demo](assets/fitsculpt-pro.webp)](https://fitsculpt-pro.pages.dev/)
+[![The FitSculpt Pro landing page](assets/fitsculpt-pro.webp)](https://fitsculpt-pro.pages.dev/)
 
 Landing page for physique and body-sculpting coaches, built around getting the visitor
 to book a call. Everything that converts sits on the one page, reached by anchor from a
@@ -51,7 +51,7 @@ booking dialog. Light and dark themes.
 Free to use, modify and deploy — personal projects and client work included. You may
 not redistribute or sell it as a template, theme or starter kit, modified or not.
 
-[Live demo →](https://fitsculpt-pro.pages.dev/) · Source:
+[See it live →](https://fitsculpt-pro.pages.dev/) · Source:
 [aledtr77/template-fitsculpt-pro](https://github.com/aledtr77/template-fitsculpt-pro)
 
 ---
@@ -62,12 +62,12 @@ Pulls a colour palette out of an image and turns it into UI roles, WCAG contrast
 ratios, CSS custom properties and JSON. Runs entirely in the browser, so the file never
 leaves your computer.
 
-[![Palette Extractor demo](assets/palette-extractor.webp)](https://palette-extractor-7hm.pages.dev/)
+[![Palette Extractor: eight dominant colours pulled out of an image, with their contrast ratios, the UI roles derived from them and the CSS export](assets/palette-extractor.webp)](https://palette-extractor-7hm.pages.dev/)
 
 Its own repo, one concern per file, 47 tests over the colour maths. Start with
 `color.js` and `extractor.js` — that is where the actual thinking is.
 
-[Live demo →](https://palette-extractor-7hm.pages.dev/) · Source:
+[Use it →](https://palette-extractor-7hm.pages.dev/) · Source:
 [aledtr77/palette-extractor](https://github.com/aledtr77/palette-extractor)
 
 codedge.it ships it too, as one of its four tools built into the site.
