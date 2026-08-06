@@ -76,23 +76,17 @@ codedge.it ships it too, as one of its four tools built into the site.
 
 ### Paid templates
 
-The four below are sold, so their source isn't on GitHub — full sources on
-[Etsy](https://www.etsy.com/shop/CodedgeStudio). The demos are live and browsable:
-that's the part you can judge from here.
+Four more, sold rather than published, so their source isn't here — they're on
+[Etsy](https://www.etsy.com/shop/CodedgeStudio). The demos are live, and the demos are
+the part worth judging:
+[PowerMax Gym](https://powermax-gym.pages.dev/) (gyms, multi-page, dark) ·
+[Mind & Motion](https://mind-and-motion.pages.dev/) (wellness, light and dark themes) ·
+[Alex Personal Trainer](https://04-fitness-coach.pages.dev/) (multi-page, built around
+enquiries) · [Giulia Vital Fit](https://coach-lifefitness.pages.dev/) (bilingual, one
+action).
 
-<a href="https://powermax-gym.pages.dev/"><img src="assets/thumbs/powermax-gym.webp" alt="PowerMax Gym demo" width="380"></a>
-<a href="https://mind-and-motion.pages.dev/"><img src="assets/thumbs/mind-and-motion.webp" alt="Mind and Motion demo" width="380"></a>
-<a href="https://04-fitness-coach.pages.dev/"><img src="assets/thumbs/alex-personal-trainer.webp" alt="Alex Personal Trainer demo" width="380"></a>
-<a href="https://coach-lifefitness.pages.dev/"><img src="assets/thumbs/giulia-vital-fit.webp" alt="Giulia Vital Fit demo" width="380"></a>
-
-- **PowerMax Gym** — gyms and sports centres, multi-page, dark interface ·
-  [demo →](https://powermax-gym.pages.dev/)
-- **Mind & Motion** — wellness, yoga and pilates, multi-page, light and dark themes ·
-  [demo →](https://mind-and-motion.pages.dev/)
-- **Alex Personal Trainer** — multi-page, built around collecting enquiries ·
-  [demo →](https://04-fitness-coach.pages.dev/)
-- **Giulia Vital Fit** — bilingual editorial landing page aimed at a single action ·
-  [demo →](https://coach-lifefitness.pages.dev/)
+For code rather than screenshots, FitSculpt Pro above is the same work with the source
+open.
 
 ---
 
