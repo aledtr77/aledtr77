@@ -26,23 +26,27 @@ ARIA attributes and keyboard focus handling written in, not bolted on afterwards
 
 ---
 
-### GymLog — offline-first PWA, source public
+### GymLog — offline-first training PWA
 
-GymLog is an installable training journal for planning workouts, logging sets and
-tracking progress. It includes rest timers, exercise history, personal records,
-weekly volume, body-weight tracking and practical fitness calculators in a responsive
-mobile and desktop interface.
+[**GymLog**](https://gymlog.aledtr-77.workers.dev/) is an installable training journal
+for planning workouts, logging sets quickly and understanding progress. It combines
+starting programmes, deterministic load progression, warm-up suggestions and recovery
+timers with exercise history, personal records, weekly volume, body-weight tracking
+and practical fitness calculators.
 
-There is no account or cloud database: workout data stays in IndexedDB on the user's
-device. The local data model has tested versioned migrations plus portable JSON export
-and restore, so offline-first is part of the architecture rather than just a cached
-app shell.
+It is local-first by design: there is no account or cloud database, and workout data
+stays in IndexedDB on the user's device. The persistence layer includes a versioned
+schema, tested legacy migrations, validated JSON backup and atomic restore rather than
+treating offline support as only a cached application shell.
 
-Version 1.0.0 is a public prototype built in plain JavaScript with Vite and Tailwind
-CSS, deployed through Cloudflare Workers Static Assets.
+The public 1.0 prototype is built with plain JavaScript, Vite and Tailwind CSS. Its 120
+automated tests cover domain rules, progression, metrics, migrations and recovery. It
+is deployed through Cloudflare Workers Static Assets and released under the MIT
+License.
 
-[Try it →](https://gymlog.aledtr-77.workers.dev/) · Source:
-[aledtr77/gymlog](https://github.com/aledtr77/gymlog)
+[Try it →](https://gymlog.aledtr-77.workers.dev/) ·
+[Read the project documentation →](https://github.com/aledtr77/gymlog#readme) ·
+[Source →](https://github.com/aledtr77/gymlog)
 
 ---
 
