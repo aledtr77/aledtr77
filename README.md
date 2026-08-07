@@ -1,27 +1,16 @@
-![codedge.it](assets/banner.webp)
-
 ## Alessandro DTR
 
 Front-end in plain HTML, CSS and JavaScript — no framework, no CMS and no bought theme
 under any of it. Sites, PWAs and website templates, mostly for fitness, sports and
 wellness.
 
-I start from something that runs. I'd rather have a component that actually works than
-a flawless explanation of how it would work — the code here was written to be used, not
-to be illustrated.
-
-The other half is less fun and matters more: verifying. A change that "should work"
-isn't finished. It gets opened in the browser, looked at on a large screen and a small
-one, and checked against what already worked before.
-
-Everything below is live. Open the projects on your phone or your desktop and see how
-they hold up.
+I'd rather ship a component that works than a flawless explanation of how it would
+work — and everything below is live, so open it on your phone and your desktop and see
+how it holds up.
 
 ---
 
 ### codedge.it
-
-[![The codedge.it home page](assets/codedge.webp)](https://codedge.it)
 
 [**codedge.it**](https://codedge.it) is my site and my main project: 418 glossary
 entries across HTML, CSS and JavaScript, 12 tutorials, 4 tools and 4 documented UI
@@ -32,7 +21,8 @@ The tools run entirely in the browser — compress an image and the file never l
 your computer, because there's no request to send it anywhere. Components ship with
 ARIA attributes and keyboard focus handling written in, not bolted on afterwards.
 
-Source: [aledtr77/codedge](https://github.com/aledtr77/codedge)
+[Open it →](https://codedge.it) · Source:
+[aledtr77/codedge](https://github.com/aledtr77/codedge)
 
 ---
 
@@ -40,8 +30,6 @@ Source: [aledtr77/codedge](https://github.com/aledtr77/codedge)
 
 Published as a code reference: this is what my markup and CSS actually look like. Start
 here if you came to read code rather than look at screenshots.
-
-[![The FitSculpt Pro landing page](assets/fitsculpt-pro.webp)](https://fitsculpt-pro.pages.dev/)
 
 Landing page for physique and body-sculpting coaches, built around getting the visitor
 to book a call. Everything that converts sits on the one page, reached by anchor from a
