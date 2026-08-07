@@ -26,6 +26,26 @@ ARIA attributes and keyboard focus handling written in, not bolted on afterwards
 
 ---
 
+### GymLog — offline-first PWA, source public
+
+GymLog is an installable training journal for planning workouts, logging sets and
+tracking progress. It includes rest timers, exercise history, personal records,
+weekly volume, body-weight tracking and practical fitness calculators in a responsive
+mobile and desktop interface.
+
+There is no account or cloud database: workout data stays in IndexedDB on the user's
+device. The local data model has tested versioned migrations plus portable JSON export
+and restore, so offline-first is part of the architecture rather than just a cached
+app shell.
+
+Version 1.0.0 is a public prototype built in plain JavaScript with Vite and Tailwind
+CSS, deployed through Cloudflare Workers Static Assets.
+
+[Try it →](https://gymlog.aledtr-77.workers.dev/) · Source:
+[aledtr77/gymlog](https://github.com/aledtr77/gymlog)
+
+---
+
 ### FitSculpt Pro — template, source public
 
 Published as a code reference: this is what my markup and CSS actually look like. Start
