@@ -1,101 +1,62 @@
 ## Alessandro Di Terlizzi
 
-Front-end in plain HTML, CSS and JavaScript — no framework, no CMS and no bought theme
-under any of it. Sites, PWAs and website templates, mostly for fitness, sports and
-wellness.
+Front-end developer building websites, PWAs and browser-based products with semantic
+HTML, modular CSS and JavaScript. Focused on fitness, sports and wellness.
 
-I'd rather ship a component that works than a flawless explanation of how it would
-work — and everything below is live, so open it on your phone and your desktop and see
-how it holds up.
-
----
-
-### codedge.it
-
-[**codedge.it**](https://codedge.it) is my site and my main project: 418 glossary
-entries across HTML, CSS and JavaScript, 12 tutorials, 4 tools and 4 documented UI
-components. Bilingual, assembled with Vite, built on GitHub Actions and deployed to
-Cloudflare Pages.
-
-The tools run entirely in the browser — compress an image and the file never leaves
-your computer, because there's no request to send it anywhere. Components ship with
-ARIA attributes and keyboard focus handling written in, not bolted on afterwards.
-
-[Open it →](https://codedge.it) · Source:
-[aledtr77/codedge](https://github.com/aledtr77/codedge)
-
----
+Everything below is live: open it, use it and inspect the source.
 
 ### GymLog — offline-first training PWA
 
 [**GymLog**](https://gymlog.aledtr-77.workers.dev/) is an installable training journal
-for planning workouts, logging sets quickly and understanding progress. It combines
-starting programmes, deterministic load progression, warm-up suggestions and recovery
-timers with exercise history, personal records, weekly volume, body-weight tracking
-and practical fitness calculators.
+for planning workouts, logging sets and understanding progress. It includes guided
+programmes, deterministic load progression, recovery timers, exercise history,
+personal records, weekly volume and body-weight tracking.
 
-It is local-first by design: there is no account or cloud database, and workout data
-stays in IndexedDB on the user's device. The persistence layer includes a versioned
-schema, tested legacy migrations, validated JSON backup and atomic restore rather than
-treating offline support as only a cached application shell.
+Workout data stays in IndexedDB on the user's device. The versioned persistence layer
+handles legacy migrations, validated JSON backups and atomic restores. The public 1.0
+prototype is built with JavaScript, Vite and Tailwind CSS, with 120 automated tests
+covering domain rules, progression, metrics and recovery.
 
-The public 1.0 prototype is built with plain JavaScript, Vite and Tailwind CSS. Its 120
-automated tests cover domain rules, progression, metrics, migrations and recovery. It
-is deployed through Cloudflare Workers Static Assets and released under the MIT
-License.
+[Try it](https://gymlog.aledtr-77.workers.dev/) ·
+[Documentation and source](https://github.com/aledtr77/gymlog)
 
-[Try it →](https://gymlog.aledtr-77.workers.dev/) ·
-[Read the project documentation →](https://github.com/aledtr77/gymlog#readme) ·
-[Source →](https://github.com/aledtr77/gymlog)
+### Palette Extractor — browser colour tool
 
----
+[**Palette Extractor**](https://palette-extractor-7hm.pages.dev/) turns an image into
+UI colour roles, WCAG contrast grades, CSS custom properties and JSON. Processing
+happens entirely in the browser, so the image is never uploaded.
 
-### FitSculpt Pro — template, source public
+[![Palette Extractor showing eight dominant colours, contrast grades and generated UI roles](assets/palette-extractor.webp)](https://palette-extractor-7hm.pages.dev/)
 
-Published as a code reference: this is what my markup and CSS actually look like. Start
-here if you came to read code rather than look at screenshots.
+The colour conversion, contrast and extraction logic is split into focused modules
+and covered by 133 automated tests.
 
-Landing page for physique and body-sculpting coaches, built around getting the visitor
-to book a call. Everything that converts sits on the one page, reached by anchor from a
-single navigation bar: metrics calculator, filterable program grid, membership tiers,
-booking dialog. Light and dark themes.
+[Use it](https://palette-extractor-7hm.pages.dev/) ·
+[Documentation and source](https://github.com/aledtr77/palette-extractor)
 
-Free to use, modify and deploy — personal projects and client work included. You may
-not redistribute or sell it as a template, theme or starter kit, modified or not.
+### codedge.it — bilingual front-end reference
 
-[See it live →](https://fitsculpt-pro.pages.dev/) · Source:
-[aledtr77/template-fitsculpt-pro](https://github.com/aledtr77/template-fitsculpt-pro)
+[**codedge.it**](https://codedge.it) contains 418 glossary entries, 12 tutorials,
+4 browser tools and 4 documented UI components across HTML, CSS and JavaScript.
+It is a bilingual multi-page Vite site built and tested with GitHub Actions.
 
----
+Its tools keep files on the user's device, its components include keyboard and ARIA
+behaviour, and browser checks cover all published pages before deployment.
 
-### Palette Extractor — tool, source public
+[Open codedge.it](https://codedge.it) ·
+[Documentation and source](https://github.com/aledtr77/codedge)
 
-Pulls a colour palette out of an image and turns it into UI roles, WCAG contrast
-ratios, CSS custom properties and JSON. Runs entirely in the browser, so the file never
-leaves your computer.
+### More work
 
-[![Palette Extractor: eight dominant colours pulled out of an image, with their contrast ratios, the UI roles derived from them and the CSS export](assets/palette-extractor.webp)](https://palette-extractor-7hm.pages.dev/)
-
-Its own repo, one concern per file, 47 tests over the colour maths. Start with
-`color.js` and `extractor.js` — that is where the actual thinking is.
-
-[Use it →](https://palette-extractor-7hm.pages.dev/) · Source:
-[aledtr77/palette-extractor](https://github.com/aledtr77/palette-extractor)
-
-codedge.it ships it too, as one of its four tools built into the site.
-
----
-
-### Templates
-
-I also create commercial website templates for fitness and wellness. They are
-available from [Codedge Studio on Etsy →](https://www.etsy.com/shop/CodedgeStudio).
-
----
+[**FitSculpt Pro**](https://fitsculpt-pro.pages.dev/) is a responsive, light-and-dark
+landing-page template for fitness coaches, published with its
+[source code](https://github.com/aledtr77/template-fitsculpt-pro). I also create
+commercial fitness and wellness templates through
+[Codedge Studio](https://www.etsy.com/shop/CodedgeStudio).
 
 ### Work with me
 
-Available for commissioned work: sites and landing pages, custom components, changes
-to projects that already exist.
+Available for commissioned websites, landing pages, components and improvements to
+existing front-end projects.
 
 **contatti.codedge@gmail.com** · [codedge.it/contact](https://codedge.it/contact/)
