@@ -1,4 +1,4 @@
-## Alessandro DTR
+## Alessandro Di Terlizzi
 
 Front-end in plain HTML, CSS and JavaScript — no framework, no CMS and no bought theme
 under any of it. Sites, PWAs and website templates, mostly for fitness, sports and
