@@ -3,7 +3,8 @@
 Front-end developer building websites, PWAs and browser-based products with semantic
 HTML, modular CSS and JavaScript. Focused on fitness, sports and wellness.
 
-Everything below is live: open it, use it and inspect the source.
+The work showcased here consists of independent personal projects, not commissioned
+client work. Everything below is live: open it, use it and inspect the source.
 
 ### GymLog — offline-first training PWA
 
@@ -50,13 +51,14 @@ behaviour, and browser checks cover all published pages before deployment.
 
 [**FitSculpt Pro**](https://fitsculpt-pro.pages.dev/) is a responsive, light-and-dark
 landing-page template for fitness coaches, published with its
-[source code](https://github.com/aledtr77/template-fitsculpt-pro). I also create
-commercial fitness and wellness templates through
-[Codedge Studio](https://www.etsy.com/shop/CodedgeStudio).
+[source code](https://github.com/aledtr77/template-fitsculpt-pro).
+[Codedge Studio](https://www.etsy.com/shop/CodedgeStudio) is my early-stage Etsy shop,
+where I am beginning to publish commercial fitness and wellness templates.
 
-### Work with me
+### Open to collaboration
 
-Available for commissioned websites, landing pages, components and improvements to
-existing front-end projects.
+I am open to collaborations and to discussing new freelance projects: websites,
+landing pages, browser tools, UI components and improvements to existing front-end
+products.
 
 **contatti.codedge@gmail.com** · [codedge.it/contact](https://codedge.it/contact/)
