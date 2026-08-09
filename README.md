@@ -51,7 +51,7 @@ behaviour, and browser checks cover all published pages before deployment.
 
 [**FitSculpt Pro**](https://fitsculpt-pro.pages.dev/) is a responsive, light-and-dark
 landing-page template for fitness coaches, published with its
-[source code](https://github.com/aledtr77/template-fitsculpt-pro).
+[source code](https://github.com/aledtr77/fitsculpt-pro).
 [Codedge Studio](https://www.etsy.com/shop/CodedgeStudio) is my early-stage Etsy shop,
 where I am beginning to publish commercial fitness and wellness templates.
 
