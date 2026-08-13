@@ -1,10 +1,14 @@
 ## Alessandro Di Terlizzi
 
-Front-end developer building websites, PWAs and browser-based products with semantic
-HTML, modular CSS and JavaScript. Focused on fitness, sports and wellness.
+AI-assisted web project builder learning front-end development. I turn ideas into
+websites, PWAs and browser tools, with a focus on fitness, sports and wellness.
 
 The work showcased here consists of independent personal projects, not commissioned
-client work. Everything below is live: open it, use it and inspect the source.
+client work. I define the product direction, requirements and acceptance criteria;
+AI supports much of the implementation and documentation. I review the changes, test
+the behaviour, inspect the final interface and remain responsible for what I publish.
+
+Everything below is live: open it, use it and inspect the source.
 
 ### GymLog — offline-first training PWA
 
@@ -13,10 +17,9 @@ for planning workouts, logging sets and understanding progress. It includes guid
 programmes, deterministic load progression, recovery timers, exercise history,
 personal records, weekly volume and body-weight tracking.
 
-Workout data stays in IndexedDB on the user's device. The versioned persistence layer
-handles legacy migrations, validated JSON backups and atomic restores. The public 1.0
-prototype is built with JavaScript, Vite and Tailwind CSS, with 120 automated tests
-covering domain rules, progression, metrics and recovery.
+Workout data stays on the user's device. I directed the product scope, workout flow,
+privacy requirements and release criteria, then used an AI-assisted workflow to build
+and refine the prototype. Automated checks cover its main rules and recovery paths.
 
 [Try it](https://gymlog.aledtr-77.workers.dev/) ·
 [Documentation and source](https://github.com/aledtr77/gymlog)
@@ -29,23 +32,40 @@ happens entirely in the browser, so the image is never uploaded.
 
 [![Palette Extractor showing eight dominant colours, contrast grades and generated UI roles](assets/palette-extractor.webp)](https://palette-extractor-7hm.pages.dev/)
 
-The colour conversion, contrast and extraction logic is split into focused modules
-and covered by 133 automated tests.
+This project helped me learn how browser image processing, contrast checks and
+testable acceptance criteria fit together. Its core behaviour is covered by automated
+tests rather than assumed correct from the interface alone.
 
 [Use it](https://palette-extractor-7hm.pages.dev/) ·
 [Documentation and source](https://github.com/aledtr77/palette-extractor)
 
-### codedge.it — bilingual front-end reference
+### codedge.it — bilingual front-end learning reference
 
-[**codedge.it**](https://codedge.it) contains 418 glossary entries, 12 tutorials,
-4 browser tools and 4 documented UI components across HTML, CSS and JavaScript.
-It is a bilingual multi-page Vite site built and tested with GitHub Actions.
+[**codedge.it**](https://codedge.it) is a learning reference that I curate while
+developing my front-end skills. It combines bilingual glossary entries, tutorials,
+browser tools and documented UI components across HTML, CSS and JavaScript.
 
-Its tools keep files on the user's device, its components include keyboard and ARIA
-behaviour, and browser checks cover all published pages before deployment.
+The project gives me a place to practise content review, browser behaviour,
+accessibility checks and deployment through GitHub Actions. Technical material should
+be treated as curated learning content rather than professional documentation.
 
 [Open codedge.it](https://codedge.it) ·
 [Documentation and source](https://github.com/aledtr77/codedge)
+
+### How I work
+
+- I define the problem, scope, user flow and acceptance criteria.
+- AI helps generate, refactor and document implementation proposals.
+- I inspect diffs, run automated checks and test the working interface.
+- I record limitations and treat generated output as something to verify, not proof of
+  correctness.
+
+### Currently learning
+
+- Reading and modifying HTML, CSS and JavaScript with more independence
+- Reviewing AI-generated code and recognising unnecessary complexity
+- Browser debugging, accessibility testing and Git workflows
+- Turning prototypes into maintainable, clearly scoped products
 
 ### More work
 
@@ -57,8 +77,8 @@ where I am beginning to publish commercial fitness and wellness templates.
 
 ### Open to collaboration
 
-I am open to collaborations and to discussing new freelance projects: websites,
-landing pages, browser tools, UI components and improvements to existing front-end
-products.
+I am open to small, clearly scoped AI-assisted website projects, landing pages and
+prototype work, as well as collaborations where product direction, iteration and
+quality review are useful.
 
 **contatti.codedge@gmail.com** · [codedge.it/contact](https://codedge.it/contact/)
