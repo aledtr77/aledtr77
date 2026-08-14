@@ -16,6 +16,14 @@ combining glossaries, tutorials, browser tools and documented UI components.
 [Live site](https://codedge.it) ·
 [Source](https://github.com/aledtr77/codedge)
 
+### GymLog
+
+An installable offline-first training journal with workout logging, local
+persistence, progress metrics and portable backups.
+
+[Open GymLog](https://gymlog.aledtr-77.workers.dev/) ·
+[Source](https://github.com/aledtr77/gymlog)
+
 ### Palette Extractor
 
 A browser tool that extracts dominant colours from an image and turns them into
@@ -28,14 +36,6 @@ custom properties and JSON.
 
 [Use the tool](https://palette-extractor-7hm.pages.dev/) ·
 [Source](https://github.com/aledtr77/palette-extractor)
-
-### GymLog
-
-An installable offline-first training journal with workout logging, local
-persistence, progress metrics and portable backups.
-
-[Open GymLog](https://gymlog.aledtr-77.workers.dev/) ·
-[Source](https://github.com/aledtr77/gymlog)
 
 ### FitSculpt Pro
 
