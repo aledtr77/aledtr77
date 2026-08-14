@@ -24,6 +24,8 @@ a reusable palette for websites, interfaces and other visual projects.
 It generates colour values, suggests UI roles, checks contrast and produces CSS
 custom properties and JSON.
 
+[![Palette Extractor showing eight dominant colours, contrast grades and generated UI roles](assets/palette-extractor.webp)](https://palette-extractor-7hm.pages.dev/)
+
 [Use the tool](https://palette-extractor-7hm.pages.dev/) ·
 [Source](https://github.com/aledtr77/palette-extractor)
 
