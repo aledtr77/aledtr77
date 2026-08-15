@@ -26,38 +26,54 @@ I am not presenting myself as a senior engineer or as someone who has every answ
 I enjoy building, I keep trying, and every project is an opportunity to understand
 something more than I did before.
 
-## What I use
+## Technology stack
 
-<p align="center">
-  <strong>Frontend &amp; tooling</strong>
-  <br><br>
-  <img width="44" height="44" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML">
+### Languages
+
+<p>
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML">
   &nbsp;
-  <img width="44" height="44" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS">
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS">
   &nbsp;
-  <img width="44" height="44" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript">
-  &nbsp;
-  <img width="44" height="44" src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite">
-  &nbsp;
-  <img width="44" height="44" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS">
-  &nbsp;
-  <img width="44" height="44" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js">
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript">
 </p>
 
-<p align="center">
-  <strong>Versioning &amp; deployment</strong>
-  <br><br>
-  <img width="44" height="44" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
+### Front-end & build
+
+<p>
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite">
   &nbsp;
-  <img width="44" height="44" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub">
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS">
   &nbsp;
-  <img width="44" height="44" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare">
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js">
+</p>
+
+### Testing & automation
+
+<p>
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=vitest" alt="Vitest" title="Vitest">
   &nbsp;
-  <img width="44" height="44" src="https://skillicons.dev/icons?i=netlify" alt="Netlify" title="Netlify">
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=playwright" alt="Playwright" title="Playwright">
   &nbsp;
-  <img width="44" height="44" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel">
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=eslint" alt="ESLint" title="ESLint">
   &nbsp;
-  <img width="44" height="44" src="https://cdn.simpleicons.org/githubpages" alt="GitHub Pages" title="GitHub Pages">
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions">
+</p>
+
+### Version control & deployment
+
+<p>
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub">
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare">
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=netlify" alt="Netlify" title="Netlify">
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel">
+  &nbsp;
+  <img width="48" height="48" src="https://cdn.simpleicons.org/githubpages" alt="GitHub Pages" title="GitHub Pages">
 </p>
 
 ---
