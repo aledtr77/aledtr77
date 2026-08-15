@@ -16,66 +16,10 @@
 
 ## About
 
-I work on front-end projects: interfaces, responsive layouts, accessibility and
-interaction in the browser.
+I build accessible front-end products: responsive websites, PWAs and browser tools.
 
-AI writes most of the code in my projects. I define what to build, steer the
-implementation, review the results, run the checks, correct problems and maintain
-what I publish. It is not a hidden shortcut; it is the tool that makes this work
-possible and part of how every project is built.
-
-I keep learning through the work itself and take responsibility for what I publish,
-including when the implementation is AI-generated.
-
-## Technology stack
-
-### Languages
-
-<p>
-  <picture title="HTML"><img width="48" height="48" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"></picture>
-  &nbsp;
-  <picture title="CSS"><img width="48" height="48" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"></picture>
-  &nbsp;
-  <picture title="JavaScript"><img width="48" height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"></picture>
-</p>
-
-### Front-end & build
-
-<p>
-  <picture title="Vite"><img width="48" height="48" src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite"></picture>
-  &nbsp;
-  <picture title="Tailwind CSS"><img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"></picture>
-  &nbsp;
-  <picture title="Node.js"><img width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"></picture>
-</p>
-
-### Testing & automation
-
-<p>
-  <picture title="Vitest"><img width="48" height="48" src="https://skillicons.dev/icons?i=vitest" alt="Vitest" title="Vitest"></picture>
-  &nbsp;
-  <picture title="Playwright"><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright"></picture>
-  &nbsp;
-  <picture title="ESLint"><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint"></picture>
-  &nbsp;
-  <picture title="GitHub Actions"><img width="48" height="48" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions"></picture>
-</p>
-
-### Version control & deployment
-
-<p>
-  <picture title="Git"><img width="48" height="48" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"></picture>
-  &nbsp;
-  <picture title="GitHub"><img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"></picture>
-  &nbsp;
-  <picture title="Cloudflare"><img width="48" height="48" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare"></picture>
-  &nbsp;
-  <picture title="Netlify"><img width="48" height="48" src="https://skillicons.dev/icons?i=netlify" alt="Netlify" title="Netlify"></picture>
-  &nbsp;
-  <picture title="Vercel"><img width="48" height="48" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel"></picture>
-  &nbsp;
-  <picture title="GitHub Pages"><img width="48" height="48" src="assets/stack/github-pages.svg" alt="GitHub Pages" title="GitHub Pages"></picture>
-</p>
+AI supports much of the implementation. I define the product scope and requirements,
+direct the work, review the working result, run the checks and maintain what I publish.
 
 ---
 
@@ -85,7 +29,7 @@ including when the implementation is AI-generated.
   <tr>
     <td width="50%" valign="top">
       <h3>CODEDGE</h3>
-      <p>A bilingual front-end reference with tutorials, glossaries, browser tools and accessible UI components.</p>
+      <p>A bilingual web-development reference focused on front-end tutorials, glossaries, browser tools and accessible UI components.</p>
       <p>
         <a href="https://codedge.it"><img src="assets/actions/open-website.svg" alt="Open the CODEDGE website" height="34"></a>
         &nbsp;&nbsp;
@@ -105,6 +49,7 @@ including when the implementation is AI-generated.
   <tr>
     <td width="50%" valign="top">
       <h3>Palette Extractor</h3>
+      <a href="https://palette-extractor-7hm.pages.dev/"><img src="assets/palette-extractor.webp" alt="Palette Extractor interface showing an extracted colour palette, UI roles, contrast results and export options" width="100%"></a>
       <p>A private-by-design browser tool that turns images into reusable colour systems and contrast checks.</p>
       <p>
         <a href="https://palette-extractor-7hm.pages.dev/"><img src="assets/actions/use-tool.svg" alt="Use Palette Extractor" height="34"></a>
@@ -127,16 +72,41 @@ including when the implementation is AI-generated.
 These are independent personal projects. They are live, open to inspection and part
 of the way I practise and learn.
 
-<details>
-<summary><strong>How I verify what I publish</strong></summary>
+## Technology stack
 
-<br>
+### Front-end & build
+
+<p>
+  <picture title="HTML"><img width="48" height="48" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"></picture>
+  &nbsp;
+  <picture title="CSS"><img width="48" height="48" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"></picture>
+  &nbsp;
+  <picture title="JavaScript"><img width="48" height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"></picture>
+  &nbsp;
+  <picture title="Vite"><img width="48" height="48" src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite"></picture>
+  &nbsp;
+  <picture title="Tailwind CSS"><img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"></picture>
+</p>
+
+### Quality & delivery
+
+<p>
+  <picture title="Vitest"><img width="48" height="48" src="https://skillicons.dev/icons?i=vitest" alt="Vitest" title="Vitest"></picture>
+  &nbsp;
+  <picture title="Playwright"><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright"></picture>
+  &nbsp;
+  <picture title="ESLint"><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint"></picture>
+  &nbsp;
+  <picture title="GitHub Actions"><img width="48" height="48" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions"></picture>
+  &nbsp;
+  <picture title="Cloudflare"><img width="48" height="48" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare"></picture>
+</p>
+
+## How I verify what I publish
 
 Depending on the project, I use automated tests, linting, production builds, browser
-checks, accessibility reviews and continuous integration. AI helps with implementation,
-but I remain responsible for reviewing, correcting and maintaining the result.
-
-</details>
+checks, accessibility reviews and continuous integration. I review failures, correct
+problems and maintain the released result.
 
 <details>
 <summary><strong>More links</strong></summary>
