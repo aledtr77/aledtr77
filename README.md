@@ -111,18 +111,9 @@ Depending on the project, I use automated tests, linting, production builds, bro
 checks, accessibility reviews and continuous integration. I review failures, correct
 problems and maintain the released result.
 
-<details>
-<summary><strong>More links</strong></summary>
-
-<br>
-
 <p>
   <a href="https://github.com/aledtr77?tab=repositories"><img src="assets/actions/repositories.svg" alt="Browse all my GitHub repositories" height="36"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.etsy.com/shop/CodedgeStudio"><img src="assets/actions/codedge-studio.svg" alt="Visit Codedge Studio on Etsy" height="36"></a>
 </p>
-
-</details>
 
 ---
 
