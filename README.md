@@ -30,43 +30,43 @@ direct the work, review the working result, run the checks and maintain what I p
     <td width="50%" valign="top">
       <h3>CODEDGE</h3>
       <a href="https://codedge.it"><img src="assets/codedge.webp" alt="CODEDGE home page with its web-development resources, tools and tutorials" width="100%"></a>
-      <p>A bilingual web-development reference focused on front-end tutorials, glossaries, browser tools and accessible UI components.</p>
+      <p>Bilingual front-end tutorials, glossaries, browser tools and accessible UI components.</p>
       <p>
-        <a href="https://codedge.it"><img src="assets/actions/live.svg" alt="Open the CODEDGE website" height="28"></a>
-        &nbsp;
-        <a href="https://github.com/aledtr77/codedge"><img src="assets/actions/source.svg" alt="View the CODEDGE source code" height="28"></a>
+        <a href="https://codedge.it"><img src="assets/actions/open-website.svg" alt="Open the CODEDGE website" height="34"></a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/aledtr77/codedge"><img src="assets/actions/view-source.svg" alt="View the CODEDGE source code" height="34"></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>GymLog</h3>
       <a href="https://gymlog.aledtr-77.workers.dev/"><img src="assets/gymlog.webp" alt="GymLog training dashboard showing an active workout and weekly progress" width="100%"></a>
-      <p>An installable, offline-first training journal for logging workouts and following progress over time.</p>
+      <p>Offline-first training journal with workout logging, local storage and progress metrics.</p>
       <p>
-        <a href="https://gymlog.aledtr-77.workers.dev/"><img src="assets/actions/live.svg" alt="Open the GymLog app" height="28"></a>
-        &nbsp;
-        <a href="https://github.com/aledtr77/gymlog"><img src="assets/actions/source.svg" alt="View the GymLog source code" height="28"></a>
+        <a href="https://gymlog.aledtr-77.workers.dev/"><img src="assets/actions/open-app.svg" alt="Open the GymLog app" height="34"></a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/aledtr77/gymlog"><img src="assets/actions/view-source.svg" alt="View the GymLog source code" height="34"></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Palette Extractor</h3>
+      <h3>Palette<br>Extractor</h3>
       <a href="https://palette-extractor-7hm.pages.dev/"><img src="assets/palette-extractor.webp" alt="Palette Extractor interface showing an extracted colour palette, UI roles, contrast results and export options" width="100%"></a>
-      <p>A private-by-design browser tool that turns images into reusable colour systems and contrast checks.</p>
+      <p>Private browser tool for extracting reusable colour systems and checking contrast.</p>
       <p>
-        <a href="https://palette-extractor-7hm.pages.dev/"><img src="assets/actions/live.svg" alt="Open Palette Extractor" height="28"></a>
-        &nbsp;
-        <a href="https://github.com/aledtr77/palette-extractor"><img src="assets/actions/source.svg" alt="View the Palette Extractor source code" height="28"></a>
+        <a href="https://palette-extractor-7hm.pages.dev/"><img src="assets/actions/use-tool.svg" alt="Open Palette Extractor" height="34"></a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/aledtr77/palette-extractor"><img src="assets/actions/view-source.svg" alt="View the Palette Extractor source code" height="34"></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>FitSculpt Pro</h3>
+      <h3>FitSculpt<br>Pro</h3>
       <a href="https://fitsculpt-pro.pages.dev/"><img src="assets/fitsculpt-pro.webp" alt="FitSculpt Pro landing page for a physique coaching service" width="100%"></a>
-      <p>A responsive light-and-dark landing-page template for physique and body-sculpting coaches.</p>
+      <p>Responsive light-and-dark landing-page template for physique coaches and studios.</p>
       <p>
-        <a href="https://fitsculpt-pro.pages.dev/"><img src="assets/actions/live.svg" alt="Open the FitSculpt Pro template" height="28"></a>
-        &nbsp;
-        <a href="https://github.com/aledtr77/fitsculpt-pro"><img src="assets/actions/source.svg" alt="View the FitSculpt Pro source code" height="28"></a>
+        <a href="https://fitsculpt-pro.pages.dev/"><img src="assets/actions/open-template.svg" alt="Open the FitSculpt Pro template" height="34"></a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/aledtr77/fitsculpt-pro"><img src="assets/actions/view-source.svg" alt="View the FitSculpt Pro source code" height="34"></a>
       </p>
     </td>
   </tr>
