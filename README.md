@@ -109,21 +109,21 @@ something more than I did before.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>FitSculpt Pro</h3>
-      <p>A responsive light-and-dark landing-page template for physique and body-sculpting coaches.</p>
-      <p>
-        <a href="https://fitsculpt-pro.pages.dev/"><img src="assets/actions/open-template.svg" alt="Open the FitSculpt Pro template" height="34"></a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/aledtr77/fitsculpt-pro"><img src="assets/actions/view-source.svg" alt="View the FitSculpt Pro source code" height="34"></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>Palette Extractor</h3>
       <p>A private-by-design browser tool that turns images into reusable colour systems and contrast checks.</p>
       <p>
         <a href="https://palette-extractor-7hm.pages.dev/"><img src="assets/actions/use-tool.svg" alt="Use Palette Extractor" height="34"></a>
         &nbsp;&nbsp;
         <a href="https://github.com/aledtr77/palette-extractor"><img src="assets/actions/view-source.svg" alt="View the Palette Extractor source code" height="34"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>FitSculpt Pro</h3>
+      <p>A responsive light-and-dark landing-page template for physique and body-sculpting coaches.</p>
+      <p>
+        <a href="https://fitsculpt-pro.pages.dev/"><img src="assets/actions/open-template.svg" alt="Open the FitSculpt Pro template" height="34"></a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/aledtr77/fitsculpt-pro"><img src="assets/actions/view-source.svg" alt="View the FitSculpt Pro source code" height="34"></a>
       </p>
     </td>
   </tr>
