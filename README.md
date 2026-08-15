@@ -18,11 +18,8 @@
 
 I build accessible front-end products: responsive websites, PWAs and browser tools.
 
-The code is written by AI models — most of it, not part of it. Everything around it is
-mine: what gets built and why, how it is put together, what it has to pass before it
-ships, and the whole chain from something running on my machine to a deployed site on
-its own domain, with the automation and the checks that keep it standing. I direct the
-work, review what comes back, run the checks and maintain what I publish.
+AI supports much of the implementation. I define the product scope and requirements,
+direct the work, review the working result, run the checks and maintain what I publish.
 
 ---
 
