@@ -79,7 +79,7 @@ something more than I did before.
   &nbsp;
   <picture title="Vercel"><img width="48" height="48" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel"></picture>
   &nbsp;
-  <picture title="GitHub Pages"><img width="48" height="48" src="https://cdn.simpleicons.org/githubpages/2088FF" alt="GitHub Pages" title="GitHub Pages"></picture>
+  <picture title="GitHub Pages"><img width="48" height="48" src="assets/stack/github-pages.svg" alt="GitHub Pages" title="GitHub Pages"></picture>
 </p>
 
 ---
