@@ -2,11 +2,6 @@
 
 # Alessandro Di Terlizzi
 
-### AI-assisted front-end developer
-
-I build websites, PWAs and browser tools with AI — then review, test and maintain
-what I publish.
-
 <p>
   <a href="https://codedge.it"><img src="assets/actions/website.svg" alt="Visit my website" height="44"></a>
   &nbsp;&nbsp;
