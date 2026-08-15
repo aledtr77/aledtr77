@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="36" viewBox="0 0 154 36" role="img" aria-label="Codedge Studio">
+  <rect x=".75" y=".75" width="152.5" height="34.5" rx="9" fill="#24292f" stroke="#8c959f" stroke-width="1.5"/>
+  <text x="16" y="23" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600">Codedge Studio</text>
+  <text x="131" y="23" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14">↗</text>
+</svg>

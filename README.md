@@ -7,9 +7,9 @@
 I turn ideas into websites, PWAs and browser tools — one project at a time.
 
 <p>
-  <a href="https://codedge.it"><img src="https://img.shields.io/badge/Website-Visit-0969da?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my website"></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/Projects-Explore-8250df?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my projects"></a>
-  <a href="#contact"><img src="https://img.shields.io/badge/Contact-Let's_talk-1f883d?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Go to contact details"></a>
+  <a href="https://codedge.it"><img src="assets/actions/website.svg" alt="Visit my website" height="40"></a>
+  <a href="#projects"><img src="assets/actions/projects.svg" alt="Explore my projects" height="40"></a>
+  <a href="#contact"><img src="assets/actions/contact.svg" alt="Go to contact details" height="40"></a>
 </p>
 
 </div>
@@ -34,51 +34,19 @@ something more than I did before.
 
 ### Languages
 
-<p>
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML">
-  &nbsp;
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS">
-  &nbsp;
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript">
-</p>
+<p><span title="HyperText Markup Language"><strong>HTML5</strong></span> &nbsp;·&nbsp; <span title="Cascading Style Sheets"><strong>CSS3</strong></span> &nbsp;·&nbsp; <span title="JavaScript"><strong>JavaScript</strong></span></p>
 
 ### Front-end & build
 
-<p>
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite">
-  &nbsp;
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS">
-  &nbsp;
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js">
-</p>
+<p><span title="Vite"><strong>Vite</strong></span> &nbsp;·&nbsp; <span title="Tailwind CSS"><strong>Tailwind CSS</strong></span> &nbsp;·&nbsp; <span title="Node.js"><strong>Node.js</strong></span></p>
 
 ### Testing & automation
 
-<p>
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=vitest" alt="Vitest" title="Vitest">
-  &nbsp;
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright">
-  &nbsp;
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint">
-  &nbsp;
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions">
-</p>
+<p><span title="Vitest"><strong>Vitest</strong></span> &nbsp;·&nbsp; <span title="Playwright"><strong>Playwright</strong></span> &nbsp;·&nbsp; <span title="ESLint"><strong>ESLint</strong></span> &nbsp;·&nbsp; <span title="GitHub Actions"><strong>GitHub Actions</strong></span></p>
 
 ### Version control & deployment
 
-<p>
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
-  &nbsp;
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub">
-  &nbsp;
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare">
-  &nbsp;
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=netlify" alt="Netlify" title="Netlify">
-  &nbsp;
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel">
-  &nbsp;
-  <img width="48" height="48" src="https://cdn.simpleicons.org/githubpages/2088FF" alt="GitHub Pages" title="GitHub Pages">
-</p>
+<p><span title="Git"><strong>Git</strong></span> &nbsp;·&nbsp; <span title="GitHub"><strong>GitHub</strong></span> &nbsp;·&nbsp; <span title="Cloudflare"><strong>Cloudflare</strong></span> &nbsp;·&nbsp; <span title="Netlify"><strong>Netlify</strong></span> &nbsp;·&nbsp; <span title="Vercel"><strong>Vercel</strong></span> &nbsp;·&nbsp; <span title="GitHub Pages"><strong>GitHub Pages</strong></span></p>
 
 ---
 
@@ -90,16 +58,16 @@ something more than I did before.
       <h3>CODEDGE</h3>
       <p>A bilingual front-end reference with tutorials, glossaries, browser tools and accessible UI components.</p>
       <p>
-        <a href="https://codedge.it"><img src="https://img.shields.io/badge/Open_website-0969da?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Open the CODEDGE website"></a>
-        <a href="https://github.com/aledtr77/codedge"><img src="https://img.shields.io/badge/View_source-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View the CODEDGE source code"></a>
+        <a href="https://codedge.it"><img src="assets/actions/open-website.svg" alt="Open the CODEDGE website" height="34"></a>
+        <a href="https://github.com/aledtr77/codedge"><img src="assets/actions/view-source.svg" alt="View the CODEDGE source code" height="34"></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>GymLog</h3>
       <p>An installable, offline-first training journal for logging workouts and following progress over time.</p>
       <p>
-        <a href="https://gymlog.aledtr-77.workers.dev/"><img src="https://img.shields.io/badge/Open_app-0969da?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Open the GymLog app"></a>
-        <a href="https://github.com/aledtr77/gymlog"><img src="https://img.shields.io/badge/View_source-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View the GymLog source code"></a>
+        <a href="https://gymlog.aledtr-77.workers.dev/"><img src="assets/actions/open-app.svg" alt="Open the GymLog app" height="34"></a>
+        <a href="https://github.com/aledtr77/gymlog"><img src="assets/actions/view-source.svg" alt="View the GymLog source code" height="34"></a>
       </p>
     </td>
   </tr>
@@ -108,16 +76,16 @@ something more than I did before.
       <h3>FitSculpt Pro</h3>
       <p>A responsive light-and-dark landing-page template for physique and body-sculpting coaches.</p>
       <p>
-        <a href="https://fitsculpt-pro.pages.dev/"><img src="https://img.shields.io/badge/Open_template-0969da?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Open the FitSculpt Pro template"></a>
-        <a href="https://github.com/aledtr77/fitsculpt-pro"><img src="https://img.shields.io/badge/View_source-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View the FitSculpt Pro source code"></a>
+        <a href="https://fitsculpt-pro.pages.dev/"><img src="assets/actions/open-template.svg" alt="Open the FitSculpt Pro template" height="34"></a>
+        <a href="https://github.com/aledtr77/fitsculpt-pro"><img src="assets/actions/view-source.svg" alt="View the FitSculpt Pro source code" height="34"></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>Palette Extractor</h3>
       <p>A private-by-design browser tool that turns images into reusable colour systems and contrast checks.</p>
       <p>
-        <a href="https://palette-extractor-7hm.pages.dev/"><img src="https://img.shields.io/badge/Use_the_tool-0969da?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Use Palette Extractor"></a>
-        <a href="https://github.com/aledtr77/palette-extractor"><img src="https://img.shields.io/badge/View_source-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View the Palette Extractor source code"></a>
+        <a href="https://palette-extractor-7hm.pages.dev/"><img src="assets/actions/use-tool.svg" alt="Use Palette Extractor" height="34"></a>
+        <a href="https://github.com/aledtr77/palette-extractor"><img src="assets/actions/view-source.svg" alt="View the Palette Extractor source code" height="34"></a>
       </p>
     </td>
   </tr>
@@ -143,8 +111,8 @@ but I remain responsible for reviewing, correcting and maintaining the result.
 <br>
 
 <p>
-  <a href="https://github.com/aledtr77?tab=repositories"><img src="https://img.shields.io/badge/All_repositories-24292f?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Browse all my GitHub repositories"></a>
-  <a href="https://www.etsy.com/shop/CodedgeStudio"><img src="https://img.shields.io/badge/Codedge_Studio-F1641E?style=for-the-badge&amp;logo=etsy&amp;logoColor=white" alt="Visit Codedge Studio on Etsy"></a>
+  <a href="https://github.com/aledtr77?tab=repositories"><img src="assets/actions/repositories.svg" alt="Browse all my GitHub repositories" height="36"></a>
+  <a href="https://www.etsy.com/shop/CodedgeStudio"><img src="assets/actions/codedge-studio.svg" alt="Visit Codedge Studio on Etsy" height="36"></a>
 </p>
 
 </details>
@@ -156,6 +124,6 @@ but I remain responsible for reviewing, correcting and maintaining the result.
 I am open to conversations, collaborations and front-end projects.
 
 <p>
-  <a href="mailto:contatti.codedge@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me at contatti.codedge@gmail.com"></a>
-  <a href="https://codedge.it/contact/"><img src="https://img.shields.io/badge/Contact_page-0969da?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Open the contact page on codedge.it"></a>
+  <a href="mailto:contatti.codedge@gmail.com"><img src="assets/actions/send-email.svg" alt="Email me at contatti.codedge@gmail.com" height="36"></a>
+  <a href="https://codedge.it/contact/"><img src="assets/actions/contact-page.svg" alt="Open the contact page on codedge.it" height="36"></a>
 </p>
