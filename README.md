@@ -4,9 +4,9 @@
 
 <p>
   <a href="https://codedge.it"><img src="assets/actions/website.svg" alt="Visit my website" height="34"></a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="#projects"><img src="assets/actions/projects.svg" alt="Explore my projects" height="34"></a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="#contact"><img src="assets/actions/contact.svg" alt="Go to contact details" height="34"></a>
 </p>
 
