@@ -29,6 +29,8 @@ something more than I did before.
 ## What I use
 
 <p align="center">
+  <strong>Frontend &amp; tooling</strong>
+  <br><br>
   <img width="44" height="44" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML">
   &nbsp;
   <img width="44" height="44" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS">
@@ -40,12 +42,22 @@ something more than I did before.
   <img width="44" height="44" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS">
   &nbsp;
   <img width="44" height="44" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js">
-  &nbsp;
+</p>
+
+<p align="center">
+  <strong>Versioning &amp; deployment</strong>
+  <br><br>
   <img width="44" height="44" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
   &nbsp;
   <img width="44" height="44" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub">
   &nbsp;
   <img width="44" height="44" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare">
+  &nbsp;
+  <img width="44" height="44" src="https://skillicons.dev/icons?i=netlify" alt="Netlify" title="Netlify">
+  &nbsp;
+  <img width="44" height="44" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel">
+  &nbsp;
+  <img width="44" height="44" src="https://cdn.simpleicons.org/githubpages" alt="GitHub Pages" title="GitHub Pages">
 </p>
 
 ---
