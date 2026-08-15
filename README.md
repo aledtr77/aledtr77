@@ -2,9 +2,10 @@
 
 # Alessandro Di Terlizzi
 
-### Front-end developer · learning by building
+### AI-assisted front-end developer
 
-I turn ideas into websites, PWAs and browser tools — one project at a time.
+I build websites, PWAs and browser tools with AI — then review, test and maintain
+what I publish.
 
 <p>
   <a href="https://codedge.it"><img src="assets/actions/website.svg" alt="Visit my website" height="44"></a>
@@ -18,19 +19,18 @@ I turn ideas into websites, PWAs and browser tools — one project at a time.
 
 ---
 
-## A little about me
+## About
 
-I started with front-end development, and that is still where I feel at home:
-interfaces, responsive layouts, accessibility and interaction in the browser.
+I work on front-end projects: interfaces, responsive layouts, accessibility and
+interaction in the browser.
 
-I use AI models extensively in my workflow. They help me turn ideas into working
-projects and explore things that would once have been out of reach for me. That comes
-with real trade-offs: generated code still needs to be understood, tested, corrected
-and maintained.
+AI writes most of the code in my projects. I define what to build, steer the
+implementation, review the results, run the checks, correct problems and maintain
+what I publish. It is not a hidden shortcut; it is the tool that makes this work
+possible and part of how every project is built.
 
-I am not presenting myself as a senior engineer or as someone who has every answer.
-I enjoy building, I keep trying, and every project is an opportunity to understand
-something more than I did before.
+I keep learning through the work itself and take responsibility for what I publish,
+including when the implementation is AI-generated.
 
 ## Technology stack
 
