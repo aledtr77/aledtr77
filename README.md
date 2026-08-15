@@ -3,11 +3,11 @@
 # Alessandro Di Terlizzi
 
 <p>
-  <a href="https://codedge.it"><img src="assets/actions/website.svg" alt="Visit my website" height="44"></a>
-  &nbsp;&nbsp;
-  <a href="#projects"><img src="assets/actions/projects.svg" alt="Explore my projects" height="44"></a>
-  &nbsp;&nbsp;
-  <a href="#contact"><img src="assets/actions/contact.svg" alt="Go to contact details" height="44"></a>
+  <a href="https://codedge.it"><img src="assets/actions/website.svg" alt="Visit my website" height="34"></a>
+  &nbsp;
+  <a href="#projects"><img src="assets/actions/projects.svg" alt="Explore my projects" height="34"></a>
+  &nbsp;
+  <a href="#contact"><img src="assets/actions/contact.svg" alt="Go to contact details" height="34"></a>
 </p>
 
 </div>
@@ -32,9 +32,9 @@ direct the work, review the working result, run the checks and maintain what I p
       <a href="https://codedge.it"><img src="assets/codedge.webp" alt="CODEDGE home page with its web-development resources, tools and tutorials" width="100%"></a>
       <p>A bilingual web-development reference focused on front-end tutorials, glossaries, browser tools and accessible UI components.</p>
       <p>
-        <a href="https://codedge.it"><img src="assets/actions/open-website.svg" alt="Open the CODEDGE website" height="34"></a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/aledtr77/codedge"><img src="assets/actions/view-source.svg" alt="View the CODEDGE source code" height="34"></a>
+        <a href="https://codedge.it"><strong>Live</strong> ↗</a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/aledtr77/codedge">Source ↗</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -42,9 +42,9 @@ direct the work, review the working result, run the checks and maintain what I p
       <a href="https://gymlog.aledtr-77.workers.dev/"><img src="assets/gymlog.webp" alt="GymLog training dashboard showing an active workout and weekly progress" width="100%"></a>
       <p>An installable, offline-first training journal for logging workouts and following progress over time.</p>
       <p>
-        <a href="https://gymlog.aledtr-77.workers.dev/"><img src="assets/actions/open-app.svg" alt="Open the GymLog app" height="34"></a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/aledtr77/gymlog"><img src="assets/actions/view-source.svg" alt="View the GymLog source code" height="34"></a>
+        <a href="https://gymlog.aledtr-77.workers.dev/"><strong>Live</strong> ↗</a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/aledtr77/gymlog">Source ↗</a>
       </p>
     </td>
   </tr>
@@ -54,9 +54,9 @@ direct the work, review the working result, run the checks and maintain what I p
       <a href="https://palette-extractor-7hm.pages.dev/"><img src="assets/palette-extractor.webp" alt="Palette Extractor interface showing an extracted colour palette, UI roles, contrast results and export options" width="100%"></a>
       <p>A private-by-design browser tool that turns images into reusable colour systems and contrast checks.</p>
       <p>
-        <a href="https://palette-extractor-7hm.pages.dev/"><img src="assets/actions/use-tool.svg" alt="Use Palette Extractor" height="34"></a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/aledtr77/palette-extractor"><img src="assets/actions/view-source.svg" alt="View the Palette Extractor source code" height="34"></a>
+        <a href="https://palette-extractor-7hm.pages.dev/"><strong>Live</strong> ↗</a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/aledtr77/palette-extractor">Source ↗</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -64,9 +64,9 @@ direct the work, review the working result, run the checks and maintain what I p
       <a href="https://fitsculpt-pro.pages.dev/"><img src="assets/fitsculpt-pro.webp" alt="FitSculpt Pro landing page for a physique coaching service" width="100%"></a>
       <p>A responsive light-and-dark landing-page template for physique and body-sculpting coaches.</p>
       <p>
-        <a href="https://fitsculpt-pro.pages.dev/"><img src="assets/actions/open-template.svg" alt="Open the FitSculpt Pro template" height="34"></a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/aledtr77/fitsculpt-pro"><img src="assets/actions/view-source.svg" alt="View the FitSculpt Pro source code" height="34"></a>
+        <a href="https://fitsculpt-pro.pages.dev/"><strong>Live</strong> ↗</a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/aledtr77/fitsculpt-pro">Source ↗</a>
       </p>
     </td>
   </tr>

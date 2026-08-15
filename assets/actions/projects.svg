@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="142" height="44" viewBox="0 0 142 44" role="img" aria-label="Projects">
-  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#a475f9"/><stop offset="1" stop-color="#8250df"/></linearGradient></defs>
-  <rect x=".75" y=".75" width="140.5" height="42.5" rx="12" fill="url(#bg)" stroke="#d2a8ff" stroke-width="1.5"/>
-  <rect x="15" y="14" width="7" height="7" rx="1.5" fill="none" stroke="#fff" stroke-width="1.5"/><rect x="25" y="14" width="7" height="7" rx="1.5" fill="none" stroke="#fff" stroke-width="1.5"/><rect x="15" y="24" width="7" height="7" rx="1.5" fill="none" stroke="#fff" stroke-width="1.5"/><rect x="25" y="24" width="7" height="7" rx="1.5" fill="none" stroke="#fff" stroke-width="1.5"/>
-  <text x="40" y="27" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="600">Projects</text>
-  <text x="116" y="27" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16">↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="34" viewBox="0 0 96 34" role="img" aria-label="Projects">
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#218bff"/><stop offset="1" stop-color="#0969da"/></linearGradient></defs>
+  <rect x=".75" y=".75" width="94.5" height="32.5" rx="9" fill="url(#bg)" stroke="#80ccff" stroke-width="1.5"/>
+  <rect x="8" y="11" width="5" height="5" rx="1" fill="none" stroke="#fff" stroke-width="1.2"/><rect x="16" y="11" width="5" height="5" rx="1" fill="none" stroke="#fff" stroke-width="1.2"/><rect x="8" y="19" width="5" height="5" rx="1" fill="none" stroke="#fff" stroke-width="1.2"/><rect x="16" y="19" width="5" height="5" rx="1" fill="none" stroke="#fff" stroke-width="1.2"/>
+  <text x="27" y="21" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="600">Projects</text>
+  <text x="82" y="21" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13">↗</text>
 </svg>
