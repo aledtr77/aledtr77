@@ -53,9 +53,9 @@ something more than I did before.
 <p>
   <img width="48" height="48" src="https://skillicons.dev/icons?i=vitest" alt="Vitest" title="Vitest">
   &nbsp;
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=playwright" alt="Playwright" title="Playwright">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright">
   &nbsp;
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=eslint" alt="ESLint" title="ESLint">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint">
   &nbsp;
   <img width="48" height="48" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions">
 </p>
@@ -73,7 +73,7 @@ something more than I did before.
   &nbsp;
   <img width="48" height="48" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel">
   &nbsp;
-  <img width="48" height="48" src="https://cdn.simpleicons.org/githubpages" alt="GitHub Pages" title="GitHub Pages">
+  <img width="48" height="48" src="https://cdn.simpleicons.org/githubpages/2088FF" alt="GitHub Pages" title="GitHub Pages">
 </p>
 
 ---
