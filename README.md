@@ -29,6 +29,7 @@ direct the work, review the working result, run the checks and maintain what I p
   <tr>
     <td width="50%" valign="top">
       <h3>CODEDGE</h3>
+      <a href="https://codedge.it"><img src="assets/codedge.webp" alt="CODEDGE home page with its web-development resources, tools and tutorials" width="100%"></a>
       <p>A bilingual web-development reference focused on front-end tutorials, glossaries, browser tools and accessible UI components.</p>
       <p>
         <a href="https://codedge.it"><img src="assets/actions/open-website.svg" alt="Open the CODEDGE website" height="34"></a>
@@ -38,6 +39,7 @@ direct the work, review the working result, run the checks and maintain what I p
     </td>
     <td width="50%" valign="top">
       <h3>GymLog</h3>
+      <a href="https://gymlog.aledtr-77.workers.dev/"><img src="assets/gymlog.webp" alt="GymLog training dashboard showing an active workout and weekly progress" width="100%"></a>
       <p>An installable, offline-first training journal for logging workouts and following progress over time.</p>
       <p>
         <a href="https://gymlog.aledtr-77.workers.dev/"><img src="assets/actions/open-app.svg" alt="Open the GymLog app" height="34"></a>
@@ -59,6 +61,7 @@ direct the work, review the working result, run the checks and maintain what I p
     </td>
     <td width="50%" valign="top">
       <h3>FitSculpt Pro</h3>
+      <a href="https://fitsculpt-pro.pages.dev/"><img src="assets/fitsculpt-pro.webp" alt="FitSculpt Pro landing page for a physique coaching service" width="100%"></a>
       <p>A responsive light-and-dark landing-page template for physique and body-sculpting coaches.</p>
       <p>
         <a href="https://fitsculpt-pro.pages.dev/"><img src="assets/actions/open-template.svg" alt="Open the FitSculpt Pro template" height="34"></a>
