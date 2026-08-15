@@ -6,7 +6,11 @@
 
 I turn ideas into websites, PWAs and browser tools — one project at a time.
 
-[Website](https://codedge.it) · [Projects](#projects) · [Contact](#contact)
+<p>
+  <a href="https://codedge.it"><img src="https://img.shields.io/badge/Website-Visit-0969da?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my website"></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/Projects-Explore-8250df?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my projects"></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/Contact-Let's_talk-1f883d?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Go to contact details"></a>
+</p>
 
 </div>
 
@@ -85,24 +89,36 @@ something more than I did before.
     <td width="50%" valign="top">
       <h3>CODEDGE</h3>
       <p>A bilingual front-end reference with tutorials, glossaries, browser tools and accessible UI components.</p>
-      <p><a href="https://codedge.it">Open website</a> · <a href="https://github.com/aledtr77/codedge">View source</a></p>
+      <p>
+        <a href="https://codedge.it"><img src="https://img.shields.io/badge/Open_website-0969da?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Open the CODEDGE website"></a>
+        <a href="https://github.com/aledtr77/codedge"><img src="https://img.shields.io/badge/View_source-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View the CODEDGE source code"></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>GymLog</h3>
       <p>An installable, offline-first training journal for logging workouts and following progress over time.</p>
-      <p><a href="https://gymlog.aledtr-77.workers.dev/">Open app</a> · <a href="https://github.com/aledtr77/gymlog">View source</a></p>
+      <p>
+        <a href="https://gymlog.aledtr-77.workers.dev/"><img src="https://img.shields.io/badge/Open_app-0969da?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Open the GymLog app"></a>
+        <a href="https://github.com/aledtr77/gymlog"><img src="https://img.shields.io/badge/View_source-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View the GymLog source code"></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>FitSculpt Pro</h3>
       <p>A responsive light-and-dark landing-page template for physique and body-sculpting coaches.</p>
-      <p><a href="https://fitsculpt-pro.pages.dev/">Open template</a> · <a href="https://github.com/aledtr77/fitsculpt-pro">View source</a></p>
+      <p>
+        <a href="https://fitsculpt-pro.pages.dev/"><img src="https://img.shields.io/badge/Open_template-0969da?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Open the FitSculpt Pro template"></a>
+        <a href="https://github.com/aledtr77/fitsculpt-pro"><img src="https://img.shields.io/badge/View_source-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View the FitSculpt Pro source code"></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>Palette Extractor</h3>
       <p>A private-by-design browser tool that turns images into reusable colour systems and contrast checks.</p>
-      <p><a href="https://palette-extractor-7hm.pages.dev/">Use the tool</a> · <a href="https://github.com/aledtr77/palette-extractor">View source</a></p>
+      <p>
+        <a href="https://palette-extractor-7hm.pages.dev/"><img src="https://img.shields.io/badge/Use_the_tool-0969da?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Use Palette Extractor"></a>
+        <a href="https://github.com/aledtr77/palette-extractor"><img src="https://img.shields.io/badge/View_source-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View the Palette Extractor source code"></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -126,8 +142,10 @@ but I remain responsible for reviewing, correcting and maintaining the result.
 
 <br>
 
-[Browse all repositories](https://github.com/aledtr77?tab=repositories) ·
-[Codedge Studio](https://www.etsy.com/shop/CodedgeStudio)
+<p>
+  <a href="https://github.com/aledtr77?tab=repositories"><img src="https://img.shields.io/badge/All_repositories-24292f?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Browse all my GitHub repositories"></a>
+  <a href="https://www.etsy.com/shop/CodedgeStudio"><img src="https://img.shields.io/badge/Codedge_Studio-F1641E?style=for-the-badge&amp;logo=etsy&amp;logoColor=white" alt="Visit Codedge Studio on Etsy"></a>
+</p>
 
 </details>
 
@@ -137,5 +155,7 @@ but I remain responsible for reviewing, correcting and maintaining the result.
 
 I am open to conversations, collaborations and front-end projects.
 
-[contatti.codedge@gmail.com](mailto:contatti.codedge@gmail.com) ·
-[codedge.it/contact](https://codedge.it/contact/)
+<p>
+  <a href="mailto:contatti.codedge@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me at contatti.codedge@gmail.com"></a>
+  <a href="https://codedge.it/contact/"><img src="https://img.shields.io/badge/Contact_page-0969da?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Open the contact page on codedge.it"></a>
+</p>
