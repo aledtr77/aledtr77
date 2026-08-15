@@ -30,7 +30,7 @@ direct the work, review the working result, run the checks and maintain what I p
     <td width="50%" valign="top">
       <h3>CODEDGE</h3>
       <a href="https://codedge.it"><img src="assets/codedge.webp" alt="CODEDGE home page with its web-development resources, tools and tutorials" width="100%"></a>
-      <p>Bilingual front-end tutorials, glossaries, browser tools and accessible UI components.</p>
+      <p>A bilingual web-development hub with front-end resources, browser tools and UI components.</p>
       <p>
         <a href="https://codedge.it"><img src="assets/actions/open-website.svg" alt="Open the CODEDGE website" height="34"></a>
         &nbsp;&nbsp;
@@ -40,7 +40,7 @@ direct the work, review the working result, run the checks and maintain what I p
     <td width="50%" valign="top">
       <h3>GymLog</h3>
       <a href="https://gymlog.aledtr-77.workers.dev/"><img src="assets/gymlog.webp" alt="GymLog training dashboard showing an active workout and weekly progress" width="100%"></a>
-      <p>Offline-first training journal with workout logging, local storage and progress metrics.</p>
+      <p>An offline-first training journal for workout logging, progress tracking and private local storage.</p>
       <p>
         <a href="https://gymlog.aledtr-77.workers.dev/"><img src="assets/actions/open-app.svg" alt="Open the GymLog app" height="34"></a>
         &nbsp;&nbsp;
