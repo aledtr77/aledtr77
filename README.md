@@ -105,12 +105,6 @@ of the way I practise and learn.
   <picture title="Cloudflare"><img width="48" height="48" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare"></picture>
 </p>
 
-## How I verify what I publish
-
-Depending on the project, I use automated tests, linting, production builds, browser
-checks, accessibility reviews and continuous integration. I review failures, correct
-problems and maintain the released result.
-
 ---
 
 ## Contact
