@@ -111,10 +111,6 @@ Depending on the project, I use automated tests, linting, production builds, bro
 checks, accessibility reviews and continuous integration. I review failures, correct
 problems and maintain the released result.
 
-<p>
-  <a href="https://github.com/aledtr77?tab=repositories"><img src="assets/actions/repositories.svg" alt="Browse all my GitHub repositories" height="36"></a>
-</p>
-
 ---
 
 ## Contact
