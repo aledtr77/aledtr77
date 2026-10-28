@@ -16,7 +16,7 @@
 
 ## About
 
-I build accessible front-end products: responsive websites, PWAs and browser tools.
+I'm an indie developer building websites, PWAs, browser tools and Android apps.
 
 AI supports much of the implementation. I define the product scope and requirements,
 direct the work, review the working result, run the checks and maintain what I publish.
